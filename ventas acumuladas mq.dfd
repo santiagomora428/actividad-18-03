@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+contador
+1
+0
+10
+acumulador
+1
+0
+5
+ciclo
+1
+0
+6
+1
+6
+ventas
+1
+0
+9
+1
+7
+ciclo=0
+4
+1
+26
+"ingrese la venta del dia"
+5
+1
+6
+ventas
+6
+2
+8
+contador
+10
+contador+1
+10
+acumulador
+17
+acumulador+ventas
+4
+1
+58
+"marque 0 para continuar o cualquier numero para terminar"
+5
+1
+5
+ciclo
+11
+4
+1
+61
+"la venta acumulada de ", contador, " dias es: $", acumulador
+4
+1
+18
+"fin del programa"
+1
